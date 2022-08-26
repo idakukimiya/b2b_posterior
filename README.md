@@ -50,9 +50,9 @@ User Story: internet retail company want back end e-commerce website using lates
 
 [GitHub URL]("https://github.com/idakukimiya/b2b_posterior")
 
-![Gif of Demo](./assets/GIF/b2b_get all.gif)
+![Gif of Demo](./assets/GIF/b2b_get-all.gif)
 
-![Gif of Demo](./assets/GIF/b2b_get by id.gif)
+![Gif of Demo](./assets/GIF/b2b_get-by-id.gif)
 
 ![Gif of Demo](./assets/GIF/b2b_post-pull-delete.gif)
 
