@@ -46,9 +46,9 @@ User Story: internet retail company want back end e-commerce website using lates
 
 ## Link to Demo
 
-[DEMO]("https://watch.screencastify.com/v/4HkcefYWB63h3ojiQU7e")
+[DEMO](https://watch.screencastify.com/v/4HkcefYWB63h3ojiQU7e)
 
-[GitHub URL]("https://github.com/idakukimiya/b2b_posterior")
+[GitHub URL](https://github.com/idakukimiya/b2b_posterior)
 
 ![Gif of Demo](./assets/GIF/b2b_get-all.gif)
 
