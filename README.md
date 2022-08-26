@@ -2,17 +2,15 @@
 
 ## Table of Content
 
--[Descripton](#description)
+[Descripton](#description)
 
--[Usage](#usage)
+[Usage](#usage)
 
--[Screenshot](#screenshot)
+[Link to Demo](#link-to-demo)
 
--[Link to Demo](#link-to-demo)
+[Tests](#tests)
 
--[Tests](#tests)
-
--[Questions](#questions)
+[Questions](#questions)
 
 ## Description
 
@@ -46,15 +44,15 @@ User Story: internet retail company want back end e-commerce website using lates
 * THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Screenshot
-
-![screenshot of project](./assets/image/)
-
 ## Link to Demo
 
-[DEMO]("")
+[DEMO]("https://watch.screencastify.com/v/4HkcefYWB63h3ojiQU7e")
 
-[GitHub URL]("")
+[GitHub URL]("https://github.com/idakukimiya/b2b_posterior")
+
+![Gif of Demo](./assets/GIF/)
+
+![Gif of Demo](./assets/GIF/)
 
 ![Gif of Demo](./assets/GIF/)
 
