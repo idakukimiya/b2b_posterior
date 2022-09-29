@@ -22,12 +22,12 @@ router.get('/:id', async (req, res) => {
   // find one category by its `id` value
   // be sure to include its associated Products
   try {
-    const categoryData = await category.findByPk(req.params.id, {
+    const categoryById = await category.findByPk(req.params.id, {
       include: [
         {model: Product}
       ],
     });
-    if (!categoryData){
+    if (!categoryById){
       res.status(404).json({message: 'NO ID found with this category!'});
       return;
     }
