@@ -8,8 +8,6 @@
 
 [Links to Project](#links-to-project)
 
-[Screenshot of Project](#screenshot-of-project)
-
 [Technology](#technology)
 
 [Questions](#questions)
@@ -36,11 +34,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Links to Project
 
-[GitHub URL to Project](https://github.com/idakukimiya/CopyReader)
+[GitHub URL](https://github.com/idakukimiya/b2b_posterior)
 
 [DEMO](https://watch.screencastify.com/v/4HkcefYWB63h3ojiQU7e)
-
-[GitHub URL](https://github.com/idakukimiya/b2b_posterior)
 
 ![Gif of Demo](./assets/GIF/b2b_get-all.gif)
 
@@ -48,17 +44,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ![Gif of Demo](./assets/GIF/b2b_post-pull-delete.gif)
 
-## Screenshot of Project
-
-![Screenshot](assets/images/pic1.png)
-
 ## Technology
 
-* indexedDB database
+* Express.js API
 
-* npm package call idb (lightweight wrapper around the IndexedDB API)
+* MySQL DB
 
-* Heroku deployment
+* Insomina
 
 ## Questions
 
@@ -67,4 +59,3 @@ THEN I am able to successfully create, update, and delete data in my database
   [GitHub](https://github.com/https://github.com/idakukimiya)
 
   [Email: kukimiya.ida@gmail.com](mailto:kukimiya.ida@gmail.com)
-  
